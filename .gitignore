@@ -1,0 +1,5 @@
+/.vs
+/packages
+/PerfectAdsApi/obj
+/PerfectAdsApi/bin
+/PerfectAdsApi/*.user
